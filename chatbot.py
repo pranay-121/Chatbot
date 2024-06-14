@@ -7,7 +7,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
-OPENAI_API_KEY = "sk-proj-BP5OTeqFwjv48iWnGtoaT3BlbkFJRqA7YgSH6nyUlPpQyAqX"
+OPENAI_API_KEY = "Paste your api key"
 
 # Set up Streamlit sidebar
 st.sidebar.title("Your Documents")
